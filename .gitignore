@@ -1,0 +1,5 @@
+build/
+*.jks
+*.keystore
+app/assets/*.json
+app/assets/*.ttf
