@@ -1,5 +1,7 @@
 # Islamic-themed TV home screen (Noor · نور)
 
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/donate/?business=oualidlamarti94%40gmail.com&currency_code=EUR&item_name=Islamic-themed-TV-home-screen)
+
 An ad-free, Islamic home screen for Android TV / Google TV (Android 8+). Small, plain Java, no libraries, no tracking.
 
 ![Verse screen](docs/verse-screen.png)
@@ -56,6 +58,13 @@ On Google TV the stock launcher takes Home back while it is enabled; `pm disable
 makes Noor stick. **Careful:** on some Google TVs the setup wizard (`com.google.android.tungsten.setupwraith`) then
 grabs Home, and disabling it can make the TV forget a Wi-Fi network it saved; re-join Wi-Fi afterwards if that happens.
 To go back: `pm enable --user 0 com.google.android.apps.tv.launcherx` (and setupwraith).
+
+## Support / Spenden
+
+If Noor is useful for you, you can support the project with a donation (PayPal: oualidlamarti94@gmail.com).
+Jazakum Allahu khayran · جزاكم الله خيرا
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/donate/?business=oualidlamarti94%40gmail.com&currency_code=EUR&item_name=Islamic-themed-TV-home-screen)
 
 ## Credits
 
