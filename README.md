@@ -61,7 +61,7 @@ To go back: `pm enable --user 0 com.google.android.apps.tv.launcherx` (and setup
 
 ## Support / Spenden
 
-If Noor is useful for you, you can support the project with a donation (PayPal: oualidlamarti94@gmail.com).
+If Noor is useful for you, you can support the project with a donation via PayPal.
 Jazakum Allahu khayran · جزاكم الله خيرا
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/donate/?business=oualidlamarti94%40gmail.com&currency_code=EUR&item_name=Islamic-themed-TV-home-screen)
